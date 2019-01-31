@@ -1,4 +1,4 @@
-# laravel
-Empty project in laravel
+# Begin
+make install-laravel
 
-## 
+

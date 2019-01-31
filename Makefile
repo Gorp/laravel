@@ -1,4 +1,4 @@
-install-laravel:
+install-laravel: run
 	docker-compose exec php-fpm composer global require "laravel/installer"
 	docker-compose exec php-fpm /root/.composer/vendor/bin/laravel new 
 
