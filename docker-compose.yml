@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+    php-fpm:
+        build: 
+         context: docker/php-fpm 
+        volumes:
+            - ${APP_PATH}:/var/www/html
+
+
+
+
