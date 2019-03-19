@@ -1,0 +1,14 @@
+{
+    "name": "gorp/laravel",
+    "description": "core for laravel projects + docker with php 7.3",
+    "type": "project",
+    "license": "MTA",
+    "authors": [
+        {
+            "name": "Dmytro Gorpynenko",
+            "email": "digorp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
